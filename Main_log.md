@@ -7,8 +7,7 @@
 	创建者：zsc
 	起始记录时间：2025年3月27日
 	截止记录时间：/
-
-[网盘文件链接](https://pan.baidu.com/s/1VITbTJj5VlxN4cbrWcuzOA?pwd=s621)
+	网盘文件链接(仅对团队内成员开放)：联系团队其他成员或n老师获取。
 
 # EDITORS_ATTENTION!
 	日志格式：
@@ -136,3 +135,4 @@ tools-calculator调出calculator；
 ## 2025年4月8日(zsc:）
 ### 10A.M.更新日志
 考虑到GitHub项目全网开放的，所以把项目中的所有人名用了首字母缩写代替。
+取消了介绍文件中的网盘链接。
